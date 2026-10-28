@@ -29,7 +29,7 @@ echo ""
 echo "===== Cloning latest code to writable workspace ====="
 
 TARGET_BRANCH="main"
-REPO_URL="https://github.com/Hurair17/multi_modal_updated.git"
+REPO_URL="https://github.com/Hurair17/baseline.git"
 
 # /tmp is always writable; blow away any previous run's clone
 CODE_DIR="/tmp/multimodal_code"
